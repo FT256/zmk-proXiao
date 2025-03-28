@@ -1,8 +1,6 @@
 # zmk-proXiao
 
-## Corne
-  
-ZMK config fo proXiao shields. 
+ZMK module for proXiao shields. 
 
 
 proXiao is a bluetooth controller for:
