@@ -10,7 +10,7 @@
 
 / {
 	chosen {
-
+        zmk,connector = &pro_micro;
 	};
 
 };
